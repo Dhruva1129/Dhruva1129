@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **MERN Stack, Python, Java**
 
-- 📫 How to reach me **dhruvatejaamancha@gmail.com**
+- 📫 How to reach me **dhruvatejaamancha29@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16-2-i9b_DMjz6QU5A4oxEYibRvINug26/view?usp=drive_link](https://drive.google.com/file/d/16-2-i9b_DMjz6QU5A4oxEYibRvINug26/view?usp=drive_link)
 
